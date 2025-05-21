@@ -1,0 +1,3 @@
+[submodule "pytorch-pretrained-BigGAN"]
+	path = pytorch-pretrained-BigGAN
+	url = https://github.com/huggingface/pytorch-pretrained-BigGAN
